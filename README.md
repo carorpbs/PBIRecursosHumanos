@@ -1,5 +1,7 @@
 # PBIRecursosHumanos
 
+Del [Curso Power BI - Análisis de Datos y Business Intelligence](https://www.udemy.com/certificate/UC-a77da13e-980d-47d0-95d4-8c511ec688e5/)
+
 En la primer página el panel de control de recursos humanos de la empresa SKU-DON presenta un resumen integral del estado actual de su personal. Con un total de 194 empleados, la organización mantiene una edad promedio de 44 años, una evaluación promedio de desempeño de 7.6 y un sueldo promedio de $75,000 dólares anuales. En cuanto a la distribución por género, hay una ligera mayoría femenina con 108 mujeres frente a 86 hombres.
 
 Entre los grupos de edad, la mayoría de los empleados se concentra en el rango de 30 a 40 años (70 personas), seguido del grupo de 40 a 50 años con 54 personas, y el de 50 a 60 con 45 personas. La representación disminuye significativamente en los extremos: solo 10 empleados tienen entre 20 y 30 años, y 15 están entre 60 y 70 años.
